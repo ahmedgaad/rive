@@ -1,16 +1,5 @@
-# anim_rive
+# Flutter Rive Animation
 
-A new Flutter project.
+![ui](https://github.com/ahmedgaad/rive/assets/70586104/f07d3ddc-c65f-4e6d-97d7-8e59397cb742)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
