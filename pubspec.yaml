@@ -1,0 +1,42 @@
+name: anim_rive
+description: A new Flutter project. 
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0' 
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.7
+  rive: ^0.11.16
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter 
+flutter: 
+  uses-material-design: true 
+
+
+  assets:
+    - assets/anim/
+    - assets/fonts/
+    - assets/images/avatars/
+    - assets/images/backgrounds/
+    - assets/images/icons/ 
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf 
+        - asset: assets/fonts/Inter-SemiBold.ttf
+          weight: 600
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+          
+          
