@@ -1,6 +1,6 @@
 # Flutter Rive Animation
 
-![GIF]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1jbRI7u7XK2nw305CxvTLkHfrMNQ3FxD3/view?usp=sharing))
+![gif](https://github.com/ahmedgaad/rive/assets/70586104/d58beaca-64da-43b6-b540-e94099e855b0)
 
 ![ui](https://github.com/ahmedgaad/rive/assets/70586104/f07d3ddc-c65f-4e6d-97d7-8e59397cb742)
 
